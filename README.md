@@ -1,7 +1,7 @@
 # Question_Answering_Matching_FAQ
 
 After installing the dependencies in the requirements.txt:
-(python3 is my alias to use python 3.6)
+
 
 # To run the demo :
 
