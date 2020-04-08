@@ -1,0 +1,9 @@
+flask
+ipython
+numpy
+simpletransformers
+pickle
+torchvision
+transformers
+seqeval
+tensorboardx
