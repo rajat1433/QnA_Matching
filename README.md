@@ -1,7 +1,15 @@
-# Question_Answering_Matching_FAQ
+# Question and Answer Matching
 
-After installing the dependencies in the requirements.txt:
+Given a pre-defined set of questions and its responses just like a set of FAQ's we try to predict
+an appropriate response for a user defined query.
 
+We frame the problem as the Multilabel Classification Problem capitalizing on the power of the
+state of the art models, RoBerta in this project. Also we use a novel training approach to mitigate
+the lack of the training data across the closed domain.
+
+# Getting Started
+
+Install the dependencies in the requirements.txt:
 
 # To run the demo :
 
@@ -18,3 +26,14 @@ python3 train_roberta.py
 # To use a pretrained model and get the accuracy score,
 
 python3 roberta.py
+
+
+## Authors/Contact
+
+**Rajat Mittal**- Jan 2020 - APR 2020
+
+
+## Acknowledgments
+
+**Andrew Koh Jin Jie** **Nanyang Technological University**
+For the mentorship and assitance.
