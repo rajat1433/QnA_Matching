@@ -30,10 +30,12 @@ python3 roberta.py
 
 ## Authors/Contact
 
-**Rajat Mittal**- Jan 2020 - APR 2020
+**Rajat Mittal**- Jan 2020 - May 2020
 
 
 ## Acknowledgments
 
-**Andrew Koh Jin Jie** **Nanyang Technological University**
+**Andrew Koh Jin Jie** and **Prof. Chng Eng Siong  **  **Nanyang Technological University**
 For the mentorship and assitance.
+
+
