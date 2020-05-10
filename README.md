@@ -35,7 +35,7 @@ python3 roberta.py
 
 ## Acknowledgments
 
-**Andrew Koh Jin Jie** and **Prof. Chng Eng Siong  **  **Nanyang Technological University**
+**Andrew Koh Jin Jie** and **Prof. Chng Eng Siong**  **Nanyang Technological University**
 For the mentorship and assitance.
 
 
