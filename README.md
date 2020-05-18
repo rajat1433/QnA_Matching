@@ -26,7 +26,9 @@ python3 train_roberta.py
 # To use a pretrained model and get the accuracy score,
 
 python3 roberta.py
-
+The already trained model can be downloaded at [here](
+https://drive.google.com/drive/folders/1uDSFGyBykVhNky-8x7tGIw6UBTQeY_9T?usp=sharing
+) 
 
 ## Authors/Contact
 
